@@ -1,4 +1,42 @@
 <resources>
     <string name="app_name">StarterKit</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_seams">SeamsActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="seams_demo_description">Seams demo description</string>
+    <string name="seam_fab_description">Seams fab description</string>
+    <string name="title_activity_buttons">ButtonsActivity</string>
+    <string name="title_floating">Floating Action Button</string>
+    <string name="title_raised_button">Raised Button</string>
+    <string name="title_borderless_button">Flat Button</string>
+    <string name="borderless_button_description">
+        <![CDATA[
+        <ul>
+        <li>A rectangular material button that has no elevation and displays ripple reaction on press.</li>
+        <li>Use them in elevated layouts to avoid excessive layering.<li>
+        </ul>
+         ]]></string>
+    <string name="raised_button_description">
+        <![CDATA[
+        <ul>
+        <li>A rectangular material button that has an elevation and displays ripple reaction on press.</li>
+        <li>Use them in flat layouts to emphasize actions.<li>
+        <li>Easy background tinting support.<li>
+        </ul>
+         ]]></string>
+    <string name="fab_description">
+        <![CDATA[
+        <ul>
+        <li>A circular material button that has an elevation and displays ripple reaction on press.</li>
+        <li>Its the most important and ubiquitous action on the screen.<li>
+        <li>Easy background tinting support.<li>
+        </ul>
+         ]]></string>
+    <string name="title_activity_fab">FabActivity</string>
+    <string name="title_activity_card">CardActivity</string>
+
+    <string name="lorem_paragraph">Mauris dictum ligula justo, quis semper nunc sodales quis. Duis finibus dictum elit, nec volutpat est blandit ac. Aliquam in pellentesque tortor, et dignissim turpis. Nullam imperdiet dolor id quam convallis, a luctus nibh placerat. Sed dignissim facilisis dolor, vitae lacinia ex volutpat ac. Nulla ut suscipit massa. Suspendisse at enim in eros sagittis consequat.  \n\nNunc nisl eros, hendrerit in sem quis, varius luctus nibh. Nam ultrices diam id est placerat suscipit ac quis quam. Vivamus elementum posuere leo quis aliquet. Sed ut augue non metus facilisis sodales. Nam finibus vulputate neque sed tempor. Ut rhoncus orci in lacinia accumsan. Sed facilisis viverra nibh, nec ultricies libero accumsan ac. Cras efficitur neque at ipsum bibendum, vel pellentesque elit tempus. Aenean hendrerit ullamcorper luctus. Phasellus sagittis purus libero, quis scelerisque dui lobortis in. Nam luctus ultrices convallis. Fusce vel libero lorem. Phasellus eget ante quis elit rutrum ornare. Phasellus blandit porttitor magna, quis placerat neque porttitor quis.  Quisque non lacinia ipsum. Fusce lacus justo, euismod quis pretium vitae, lobortis quis lacus. Nunc orci nisi, vehicula at elit eu, aliquet viverra elit. Proin vitae mi sit amet ipsum dapibus dapibus non rhoncus ex. Morbi in gravida nulla, feugiat aliquam est.</string>
+    <string name="lorem_string">Mauris dictum ligula justo, quis semper nunc sodales quis. Duis finibus dictum elit, nec volutpat est blandit ac. Aliquam in pellentesque tortor, et dignissim turpis. Nullam imperdiet dolor id quam convallis, a luctus nibh placerat. Sed dignissim facilisis dolor, vitae lacinia ex volutpat ac.</string>
+
 </resources>
